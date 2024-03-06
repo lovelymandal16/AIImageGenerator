@@ -1,3 +1,4 @@
 # AIImageGenerator
 An Ai Image generator Project made by following tutorials
-<video src='https://www.youtube.com/watch?v=uRQH2CFvedY&t=8540s)https://www.youtube.com/watch?v=uRQH2CFvedY&t=8540s' width=180/>
+![appdemo](https://github.com/lovelymandal16/AIImageGenerator/assets/155715221/d3abf93d-2668-47c5-95a0-fd9e9c8cec88)
+
