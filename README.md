@@ -1,4 +1,3 @@
-# AIImageGenerator
 # Project Title: AI-Powered Image Generator UI
 
 ## Introduction:
