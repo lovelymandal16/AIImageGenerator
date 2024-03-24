@@ -15,6 +15,7 @@ Frontend: HTML, CSS, JavaScript
 Backend: Node.js
 API: OpenAI's image generation API
 
-#DEMO
+# DEMO
+
 ![appdemo](https://github.com/lovelymandal16/AIImageGenerator/assets/155715221/d3abf93d-2668-47c5-95a0-fd9e9c8cec88)
 
